@@ -1,1 +1,1 @@
-<img width="657" height="514" alt="lab-poc drawio" src="https://github.com/user-attachments/assets/ea7c3f19-54f5-4f2a-b598-56e4e6dc1b83" />
+<img width="4180" height="2340" alt="Blank diagram" src="https://github.com/user-attachments/assets/727ce461-75d9-474f-9c82-36a3d52c2e2d" />
